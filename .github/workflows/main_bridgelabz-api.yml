@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'bridgelabz-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AC82CADBC6C6428A9D819330C6F10061 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_347A53A96B7F40E29236FFE5A94BFE31 }}
